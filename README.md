@@ -1,4 +1,14 @@
-## Hi there 👋
+### Hi, I'm Osman Mete 👋
+
+**Mathematics Undergraduate | Aspiring AI & Data Scientist**
+
+I am a Mathematics student with a strong theoretical background in Linear Algebra, Calculus, and Probability. My goal is to bridge the gap between abstract mathematics and real-world problems in Artificial Intelligence and Machine Learning.
+
+- 🎓 **Education:** BSc in Mathematics, Istanbul Medeniyet University
+- 💡 **Interests:** Machine Learning, Operations Research, Defense Technologies
+- 💻 **Currently Learning:** Python for data science and algorithmic simulations
+
+📫 **Contact:** (osmanmete.2020@gmail.com)
 
 <!--
 **OsmanMete44/OsmanMete44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
