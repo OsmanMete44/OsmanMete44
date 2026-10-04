@@ -8,7 +8,7 @@ I am a Mathematics student with a strong theoretical background in Linear Algebr
 - 💡 **Interests:** Machine Learning, Operations Research, Defense Technologies
 - 💻 **Currently Learning:** Python for data science and algorithmic simulations
 
-📫 **Contact:** (osmanmete.2020@gmail.com)
+📫 **Contact:** osmanmete.2020@gmail.com
 
 <!--
 **OsmanMete44/OsmanMete44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
